@@ -28,6 +28,8 @@
 - [Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan Clucas, Lead](https://www.youtube.com/watch?v=YbW24qbJ78I)
 - [Project Lightning Talk: Argo CD Source Hydrator: Rendered Manifests Made Easy! - Michael Crenshaw](https://www.youtube.com/watch?v=Lkik-mrYfP4)
 - [Argo CD: Previewing Pull Request Changes in SECONDS! - Dag Bjerre Andersen & Sergey Shevchenko](https://www.youtube.com/watch?v=fcajag5di68)
+- [Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan Clucas, Lead](https://www.youtube.com/watch?v=YbW24qbJ78I)
+- [Bring Your Own Artifact Driver To Workflows - Alan Clucas, Pipekit](https://www.youtube.com/watch?v=kF6zuGZAgI0)
 - [Cross-Cluster Progressive Delivery: Rolling Out Apps With Arg... Carlos Santana & Elamaran Shanmugam](https://www.youtube.com/watch?v=_2vRm81KyIk)
 - [Don't Do What Donny Don't Does: The 10 Dos and 500 Don’ts of Workflows... Tim Collins & Becky Pauley](https://www.youtube.com/watch?v=tzCGRezWJzQ)
 
