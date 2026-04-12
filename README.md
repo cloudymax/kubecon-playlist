@@ -22,6 +22,10 @@
 ## Kubevirt
 - [API is the New SSH: Forging a Zero-Trust VM Platform on Kubernetes - Evangelista Tragni, Devoteam ](https://www.youtube.com/watch?v=mVcBnbSfBrs)
 - [KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja Varnam & Luboslav Pivarc](https://www.youtube.com/watch?v=goCjV2xJDnk)
+  - new features for vmpools:
+    - update and scaleIn strategy
+    - detach VMs from pool
+    - maxUnavailable 
 - [Cloud Native Theater | KubeVirt Summit: Bridging Islands: EVPN Overlays for Multi-C... Miguel Duarte](https://www.youtube.com/watch?v=P0V_IiI3Qh4)
 - [In-place Updates with Cluster API: The Sweet Spot Between Immu... Fabrizio Pandini & Stefan Büringer](https://www.youtube.com/watch?v=CMf6rOPo9Z0)
 
