@@ -28,6 +28,8 @@
     - maxUnavailable 
 - [Cloud Native Theater | KubeVirt Summit: Bridging Islands: EVPN Overlays for Multi-C... Miguel Duarte](https://www.youtube.com/watch?v=P0V_IiI3Qh4)
 - [In-place Updates with Cluster API: The Sweet Spot Between Immu... Fabrizio Pandini & Stefan Büringer](https://www.youtube.com/watch?v=CMf6rOPo9Z0)
+  - in-place upgrade for k8s version
+  - skip to latest version on workers 
 
 ## Argo
 - [Project Lightning Talk: Argo Workflows 4, What's New And What's Next - Alan Clucas, Lead](https://www.youtube.com/watch?v=YbW24qbJ78I)
