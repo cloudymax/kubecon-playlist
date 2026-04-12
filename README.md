@@ -21,6 +21,8 @@
 
 ## Kubevirt
 - [API is the New SSH: Forging a Zero-Trust VM Platform on Kubernetes - Evangelista Tragni, Devoteam ](https://www.youtube.com/watch?v=mVcBnbSfBrs)
+  - speed-run through kubevirt, shallow but broad.
+  - I dont disagree with anything here as it's all very 101 aside from maybe his takes on IP alloaction in the Q&A
 - [KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja Varnam & Luboslav Pivarc](https://www.youtube.com/watch?v=goCjV2xJDnk)
   - new features for vmpools:
     - update and scaleIn strategy
