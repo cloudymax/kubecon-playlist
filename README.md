@@ -56,11 +56,14 @@
     - better handling of subchart values
     - better oci and auth support
 - [Virtual Power Plants (VPP): How They Work and What They Are - LeRenzo Malcom & Mario Flores, Enpal](https://www.youtube.com/watch?v=95cFjYJS4ek)
+  - VPPs are frickin cool
 - [Rook: Intro and Deep Dive With Ceph Storage - Artem Torubarov, Deepika Upadhyay & Niels de Vos](https://www.youtube.com/watch?v=ygE67l9b2Mc)
 - [Evolving Baremetal-as-a-Service: Secure Multi-Cluster Network... Yushiro Furukawa & Mitsuhiro Tanino](https://www.youtube.com/watch?v=MgerB2Tl0MQ)
 - [GPUs on Kubernetes: What Actually Happens When You Request Nvidia... Gulcan Topcu & Daniele Polencic](https://www.youtube.com/watch?v=nu6bLhuvlWM)
 - [Project Lightning Talk: CNCF Sandbox Project K8Up Under The Hood - Aarno Aukia, Maintainer](https://www.youtube.com/watch?v=NtXvB9gWTu8)
+  - add self to adopters
 - [Project Lightning Talk: K3s Lightning Update - Manuel Buil, Maintainer](https://www.youtube.com/watch?v=ouMh2xk0XFI)
+  - add self to adopters
 - [Scaling Valkey the Right Way: Kubernetes at XL Scale - Sarthak Aggarwal & Madelyn Olson, AWS](https://www.youtube.com/watch?v=t0qax1qQm14)
   - Valkey working on their own cluster operator
   - use the Valkey glide client
