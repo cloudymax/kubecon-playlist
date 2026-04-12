@@ -5,7 +5,7 @@
   - Multus for networking (latency and throughput)
   - Dont build it all yourself, find existing solutions
   - Keep solutions agnostic but devliver solutions for the client you have
-  - Kind of limited by being mostly designed to run minecraft
+  - Kind of limited by being mostly designed to run minecraft, so agones doesnt make sense for them
 - [Keynote: How Ubisoft Orchestrates Global Multiplayer Games wit... Jean-François Hubert & Mark Mandel](https://www.youtube.com/watch?v=MUOd6IoLC5Q)
   - Use CNCF tooling because AWS/GCP/Azure too dificult to keep up with compatibility.
   - Write once deploy anywhere
