@@ -50,10 +50,11 @@
 
 ## Other
 - [Helm 4 Is Here. So, Now What? - Andrew Block, Red Hat; Scott Rigby, Replicated; Robert Sirchia, SUSE](https://www.youtube.com/watch?v=cmHFJikhmyY)
-  - new template languages (CUE)
-  - helmignore work like gitignore
-  - better handling of subchart values
-  - better oci and auth support
+  - Soon:
+    - new template languages (CUE)
+    - helmignore work like gitignore
+    - better handling of subchart values
+    - better oci and auth support
 - [Virtual Power Plants (VPP): How They Work and What They Are - LeRenzo Malcom & Mario Flores, Enpal](https://www.youtube.com/watch?v=95cFjYJS4ek)
 - [Rook: Intro and Deep Dive With Ceph Storage - Artem Torubarov, Deepika Upadhyay & Niels de Vos](https://www.youtube.com/watch?v=ygE67l9b2Mc)
 - [Evolving Baremetal-as-a-Service: Secure Multi-Cluster Network... Yushiro Furukawa & Mitsuhiro Tanino](https://www.youtube.com/watch?v=MgerB2Tl0MQ)
