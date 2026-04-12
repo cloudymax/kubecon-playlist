@@ -2,6 +2,10 @@
 - [What Survived Production: Operating Game Backends at Million-Player Scale - Berkay Uckac](https://www.youtube.com/watch?v=Aa04SuPhxtA)
   - stack is way different than ours. Cool talk but not a lot of overlap.
 - [From Creepers to Clusters: Evolving Minecraft Into a Cloud Native... Jaden Walderich & Alex Mizerak](https://www.youtube.com/watch?v=XAJySxpKdzo)
+  - Multus for networking (latency and throughput)
+  - Dont build it all yourself, find existing solutions
+  - Keep solutions agnostic but devliver solutions for the client you have
+  - Kind of limited by being mostly designed to run minecraft
 - [Keynote: How Ubisoft Orchestrates Global Multiplayer Games wit... Jean-François Hubert & Mark Mandel](https://www.youtube.com/watch?v=MUOd6IoLC5Q)
   - Use CNCF tooling because AWS/GCP/Azure too dificult to keep up with compatibility.
   - Write once deploy anywhere
