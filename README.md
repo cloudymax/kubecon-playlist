@@ -6,6 +6,7 @@
   - Dont build it all yourself, find existing solutions
   - Keep solutions agnostic but devliver solutions for the client you have
   - Kind of limited by being mostly designed to run minecraft, so agones doesnt make sense for them
+  - projects end, products dont - they evolve
 - [Keynote: How Ubisoft Orchestrates Global Multiplayer Games wit... Jean-François Hubert & Mark Mandel](https://www.youtube.com/watch?v=MUOd6IoLC5Q)
   - Use CNCF tooling because AWS/GCP/Azure too dificult to keep up with compatibility.
   - Write once deploy anywhere
@@ -18,6 +19,10 @@
 - [Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts & Adam Wolfe Gordon](https://www.youtube.com/watch?v=zu6V34BFksk)
 - [Policy Engines for Kubernetes: Picking One Without Losing Your Mind - Nabarun Pal, Broadcom](https://www.youtube.com/watch?v=y5rrfSZBm1A)
 - [Flipping the Curve: A Platform Engineer's Guide to Unlocking the Silent 80% - Michael Reichenbach](https://www.youtube.com/watch?v=xRpGhFihQpk)
+  - experts are loudest users of platform so we build for them, not the average SWEs
+  - exploratory interviews vs targeted interviews 
+  - find non-experts and watch how they work through the full SDLC. 95% listening, dont try to explain to them.
+  - do surveys
 - [Amplifying End User Voices: Platform Architects on the... Rajas K, Zach S, Kevin K, Elias T & Dawn C](https://www.youtube.com/watch?v=7uBB4qgh2R0)
 - [How to Build a European Cloud Orchestration Platform From With... Maximilian Techritz & Johannes Ott ](https://www.youtube.com/watch?v=hR8hFht9sFA)
 - [Keynote: Building a Sovereign, Multi-Cloud Strategy with Cloud Native Technolog... Goetz Reinhaeckel](https://www.youtube.com/watch?v=ic814zjd454)
