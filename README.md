@@ -17,6 +17,12 @@
 ## Platform Engineering
 - [Crossplane - The Cloud Native Framework for Platform Engineering - Jared Watts & Adam Wolfe Gordon](https://www.youtube.com/watch?v=zu6V34BFksk)
 - [Policy Engines for Kubernetes: Picking One Without Losing Your Mind - Nabarun Pal, Broadcom](https://www.youtube.com/watch?v=y5rrfSZBm1A)
+  - honestly you should watch it
+  - Use k8s native CEL unless you need complex expressions or continuos backround scanning
+  - Upgrade to kyverno when you need background sanning, image version validation, and complex expressions
+  - Upgrad to OPA/Gatekeeper when you need it all + multicloud and scanning non-k8s stuff.
+  - watch out for memory usage on Kyverno and OPA
+  - get your cicd testing right, start with audit mode, have a break-glass path.
 - [Flipping the Curve: A Platform Engineer's Guide to Unlocking the Silent 80% - Michael Reichenbach](https://www.youtube.com/watch?v=xRpGhFihQpk)
   - experts are loudest users of platform so we build for them, not the average SWEs
   - exploratory interviews vs targeted interviews 
